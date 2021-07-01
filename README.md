@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Harry potter</title>
+<link rel="stylesheet" type="text/css" href="main.css" />
 </head>
 <body>
 <!-- the book name -->
